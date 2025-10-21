@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1938","Reporter Practice 4","chromium","Mon Oct 20 18:05:55 AMT 2025","passed","Mon Oct 20 18:05:57 AMT 2025","","ReporterPractice2.spec.ts","",""
+"","1870","Reporter Practice 6","chromium","Mon Oct 20 18:06:00 AMT 2025","passed","Mon Oct 20 18:06:01 AMT 2025","","ReporterPractice2.spec.ts","",""
+"","2344","Reporter Practice 5","chromium","Mon Oct 20 18:05:57 AMT 2025","passed","Mon Oct 20 18:06:00 AMT 2025","","ReporterPractice2.spec.ts","",""
+"","7352","Reporter Practice 3","chromium","Mon Oct 20 18:05:47 AMT 2025","failed","Mon Oct 20 18:05:55 AMT 2025","","ReporterPractice1.spec.ts","",""
+"","4697","Reporter Practice 1","chromium","Mon Oct 20 18:05:33 AMT 2025","passed","Mon Oct 20 18:05:38 AMT 2025","","ReporterPractice1.spec.ts","",""
+"","1855","Reporter Practice 2","chromium","Mon Oct 20 18:05:38 AMT 2025","passed","Mon Oct 20 18:05:40 AMT 2025","","ReporterPractice1.spec.ts","",""
